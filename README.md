@@ -82,6 +82,4 @@ Used OpenRouteService (open-source alternative to Google Maps) for:
 - Unit test coverage
 """
 
-with open("route_predictor/README.md", "w") as f:
-    f.write(readme)
 
